@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="48fd12ed-03ad-4cbf-b0ce-c361f234f211" name="Changes" comment="[feat]: ch09 그리디 문제 풀이" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sye1101&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sye1101/Algorithm.git&quot;,
+    &quot;accountId&quot;: &quot;bc08602d-8a17-4365-9d5f-e9b916fbdc68&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2vTP7cibUMcntBvzvVoFDxutj9B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.01. 모험가 길드.executor": "Run",
+    "Python.02. 곱하기 혹은 더하기.executor": "Run",
+    "Python.03. 문자열 뒤집기.executor": "Run",
+    "Python.04. 만들 수 없는 금액.executor": "Run",
+    "Python.05. 볼링공 고르기.executor": "Run",
+    "Python.1로 만들기.executor": "Run",
+    "Python.1이 될 때까지.executor": "Run",
+    "Python.1이 될 때까지2.executor": "Run",
+    "Python.2가지 방식으로 구현한 팩토리얼.executor": "Run",
+    "Python.DFS.executor": "Run",
+    "Python.__init__.executor": "Run",
+    "Python.sort.executor": "Run",
+    "Python.sorted.executor": "Run",
+    "Python.개미 전사.executor": "Run",
+    "Python.거스름돈.executor": "Run",
+    "Python.게임 개발.executor": "Run",
+    "Python.계수 정렬.executor": "Run",
+    "Python.두 배열의 원소 교체.executor": "Run",
+    "Python.미로 탈출.executor": "Run",
+    "Python.바닥 공사.executor": "Run",
+    "Python.반복문으로 구현한 이진 탐색.executor": "Run",
+    "Python.부품 찾기(계수 정렬).executor": "Run",
+    "Python.부품 찾기(집합 자료형).executor": "Run",
+    "Python.부품 찾기.executor": "Run",
+    "Python.삽입 정렬.executor": "Run",
+    "Python.상하좌우.executor": "Run",
+    "Python.선택 정렬.executor": "Run",
+    "Python.성적이 낮은 순서로 학생 출력하기.executor": "Run",
+    "Python.순차 탐색.executor": "Run",
+    "Python.숫자 카드 게임.executor": "Run",
+    "Python.숫자 카드 게임2.executor": "Run",
+    "Python.스택.executor": "Run",
+    "Python.시각.executor": "Run",
+    "Python.왕실의 나이트.executor": "Run",
+    "Python.위에서 아래로.executor": "Run",
+    "Python.음료수 얼려 먹기.executor": "Run",
+    "Python.인접 리스트.executor": "Run",
+    "Python.인접 행렬.executor": "Run",
+    "Python.재귀 함수 종료.executor": "Run",
+    "Python.재귀 함수.executor": "Run",
+    "Python.재귀 함수로 구현한 이진 탐색.executor": "Run",
+    "Python.정렬 라이브러리에서 key를 활용.executor": "Run",
+    "Python.퀵 정렬.executor": "Run",
+    "Python.큐.executor": "Run",
+    "Python.큰 수의 법칙.executor": "Run",
+    "Python.큰 수의 법칙2.executor": "Run",
+    "Python.파이썬 스와프.executor": "Run",
+    "Python.파이썬의 장점을 살린 퀵 정렬.executor": "Run",
+    "Python.피보나치 수열(반복적).executor": "Run",
+    "Python.피보나치 수열(재귀적).executor": "Run",
+    "Python.피보나치 함수.executor": "Run",
+    "Python.한 줄 입력받아 출력받기.executor": "Run",
+    "Python.호출되는 함수.executor": "Run",
+    "Python.효율적 화폐 구성.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/PycharmProjects/Algorithm",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "Errors"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PycharmProjects\Algorithm\1. 그리디" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4f4e415b4190-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26053.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48fd12ed-03ad-4cbf-b0ce-c361f234f211" name="Changes" comment="" />
+      <created>1744165924902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744165924902</updated>
+    </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1744733624732</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744733624732</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[feat]: ch05 DFS/BFS 문제 풀이">
+      <option name="closed" value="true" />
+      <created>1744817751279</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744817751279</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[feat]: ch06 정렬 문제 풀이">
+      <option name="closed" value="true" />
+      <created>1744891092353</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744891092353</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[feat]: ch07 이진 탐색 문제 풀이">
+      <option name="closed" value="true" />
+      <created>1745073287963</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745073287963</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[feat]: ch08 다이나믹 프로그래밍 문제 풀이">
+      <option name="closed" value="true" />
+      <created>1746437563806</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1746437563806</updated>
+    </task>
+    <task id="LOCAL-00006" summary="[feat]: ch09 그리디 문제 풀이">
+      <option name="closed" value="true" />
+      <created>1746450457476</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1746450457476</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <MESSAGE value="[feat]: ch05 DFS/BFS 문제 풀이" />
+    <MESSAGE value="[feat]: ch06 정렬 문제 풀이" />
+    <MESSAGE value="[feat]: ch07 이진 탐색 문제 풀이" />
+    <MESSAGE value="[feat]: ch08 다이나믹 프로그래밍 문제 풀이" />
+    <MESSAGE value="[feat]: ch09 그리디 문제 풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat]: ch09 그리디 문제 풀이" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/init/__init__.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/init/__init__.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/9. 알고리즘 유형별 기출문제/a. 그리디/06. 무지의 먹방 라이브.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
