@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="48fd12ed-03ad-4cbf-b0ce-c361f234f211" name="Changes" comment="[fix]: .idea 파일 삭제" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.08. 문자열 재정렬.executor": "Run"
+  }
+}]]></component>
+  <component name="ShelveChangesManager" show_recycled="true" />
+  <component name="TaskManager">
+    <servers />
+  </component>
+</project>
