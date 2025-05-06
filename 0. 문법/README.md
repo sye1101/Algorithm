@@ -222,3 +222,35 @@ print(n2.isdigit())  # 출력: False
 ```
 
 > 문자열이 비어 있거나, 공백이 섞여 있으면 둘 다 `False` 나옵니다!
+
+---
+
+### 10. `combinations()` & `combinations_with_replacement()` – 조합 만들기
+
+- `itertools` 모듈에 있는 함수로, **리스트에서 특정 개수만큼 원소를 뽑는 조합**을 만들어준다.
+
+#### ✅ `combinations(iterable, r)`
+- **중복 없이**, 순서 상관 없이 r개를 뽑는 모든 조합을 반환
+
+```python
+from itertools import combinations
+
+items = ['a', 'b', 'c']
+result = list(combinations(items, 2))
+print(result)  # 출력: [('a', 'b'), ('a', 'c'), ('b', 'c')]
+```
+
+#### ✅ `combinations_with_replacement(iterable, r)`
+- **중복을 허용해서**, r개를 뽑는 모든 조합을 반환
+
+```python
+from itertools import combinations_with_replacement
+
+items = ['a', 'b', 'c']
+result = list(combinations_with_replacement(items, 2))
+print(result)  # 출력: [('a', 'a'), ('a', 'b'), ('a', 'c'), ('b', 'b'), ('b', 'c'), ('c', 'c')]
+```
+
+> 두 함수 모두 반환값은 **튜플의 리스트** 형태
+
+
